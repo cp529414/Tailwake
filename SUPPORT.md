@@ -2,26 +2,31 @@
 
 [← Tailwake home](README.md) · [Instructions](INSTRUCTIONS.md) · [Automate Wakes](AUTOMATION.md) · [Privacy Policy](PRIVACY.md) · [Terms of Use](TERMS.md)
 
-Tailwake is designed to remain useful without a subscription. If Tailwake is helpful, the app also offers ways to support its development.
+[繁體中文](SUPPORT.zh-Hant.md)
 
-## Relay-wake allowance
+Tailwake offers unlimited manual local and remote wakes for free. Premium makes automation available and removes advertisements while supporting continued development.
 
-Tailwake includes seven free relay wakes per calendar month, resetting on the first. Local wakes remain free and unlimited.
+| Feature | Free | Premium |
+| --- | --- | --- |
+| Manual local Wake-on-LAN | Unlimited | Unlimited |
+| Manual remote SSH relay wakes | Unlimited | Unlimited |
+| PC setup, verification, wake history | Included | Included |
+| Main-screen bottom banner | May be shown | No advertisements |
+| Siri and Apple Shortcuts wake actions | Requires premium | Unlimited |
+| Scheduled wake automation through Shortcuts | Requires premium | Included |
 
-## Unlimited relay-wake options
+## Premium options
 
-- **Monthly subscription** — Unlimited relay wakes while the subscription is active; renews monthly.
-- **Yearly subscription** — Unlimited relay wakes while the subscription is active; renews yearly.
-- **Lifetime unlock** — Unlimited relay wakes forever.
+- **Monthly subscription** — Premium benefits while active; renews monthly.
+- **Yearly subscription** — Premium benefits while active; renews yearly.
+- **Lifetime unlock** — Premium benefits without a subscription. Existing valid lifetime purchases retain premium access.
 
-Prices and availability appear in the app and may vary by App Store storefront. Monthly and yearly subscriptions renew automatically unless cancelled at least 24 hours before the current period ends; they share one subscription group, so changing plans replaces the current plan.
+Prices and availability appear in the app and may vary by App Store storefront. Monthly and yearly subscriptions renew automatically unless cancelled at least 24 hours before the current period ends; they share one subscription group, so changing plans replaces the current plan. Cancelling renewal keeps access through the paid period. Expired or revoked purchases no longer provide premium; free manual wakes remain available.
 
 ## Optional tips
 
-The app also offers **Small tip** and **Big tip** purchases. Tips are optional support only: they do not unlock features or relay-wake access.
+**Small tip** and **Big tip** are optional support. They do not grant premium, remove advertisements, or unlock automation.
 
 ## Manage or restore a purchase
 
-Use **Restore Purchases** in Tailwake to recover purchases made with the same Apple Account. Manage or cancel a subscription in **Settings > [your name] > Subscriptions** on your Apple device. Apple handles billing, cancellation, and refunds.
-
-For the full purchase terms, see the [Terms of Use](TERMS.md).
+Use **Restore Purchases** in Tailwake's support screen with the same Apple Account. Tips are consumable and are not restored as premium purchases. Manage or cancel subscriptions in **Settings > [your name] > Subscriptions**. Apple handles billing, cancellation, and refunds. See the [Terms of Use](TERMS.md).

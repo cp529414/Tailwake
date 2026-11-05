@@ -1,6 +1,8 @@
 # Terms of Use
 
-Effective date: September 16, 2026
+Effective date: November 5, 2026
+
+[Tailwake home](README.md) · [繁體中文](TERMS.zh-Hant.md)
 
 ## Publisher
 
@@ -20,7 +22,13 @@ Tailwake shows the commands it proposes before installing a wake tool on the rel
 
 ## Purchases
 
-A subscription provides unlimited relay wakes during its period. The lifetime unlock provides unlimited relay wakes indefinitely. Local wakes are unmetered. Optional tips do not unlock features. Apple handles billing, cancellation, and refunds.
+Manual local and remote wakes are free and unlimited. An active monthly or yearly subscription provides Siri, Apple Shortcuts and scheduled Shortcuts wake automation, and an ad-free experience. Valid lifetime unlocks provide these premium benefits without a subscription, including lifetime purchases made before this model changed. Optional tips do not grant premium or remove advertisements. Apple handles billing, cancellation, and refunds.
+
+Subscriptions renew automatically unless cancelled at least 24 hours before the period ends. Manage subscriptions in Apple's account settings and restore purchases from Tailwake's support screen. Expiration or revocation can remove premium automation access, including from previously saved shortcuts. Manual wakes remain available.
+
+## Advertising
+
+Free users may see one bottom banner on the main screen, subject to consent and ad availability. No purchase or ad interaction is required for a manual wake. See the [Privacy Policy](PRIVACY.md) for Google AdMob and privacy choices.
 
 ## Safety
 

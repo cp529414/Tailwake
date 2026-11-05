@@ -2,6 +2,10 @@
 
 [← Tailwake home](README.md) · [Automate Wakes](AUTOMATION.md) · [Support Development](SUPPORT.md) · [Privacy Policy](PRIVACY.md) · [Terms of Use](TERMS.md)
 
+[繁體中文](INSTRUCTIONS.zh-Hant.md)
+
+Manual local and remote wakes are free and unlimited. Adding PCs, configuring SSH relays, verification, and wake history are available to everyone. Premium is required for Siri and Shortcuts automation and removes advertisements.
+
 ## Before you start
 
 You need:
@@ -73,4 +77,4 @@ With **Verify before waking**, Tailwake checks the configured TCP address and po
 
 The **Wake Log** keeps each wake attempt, follow-up verification, and relay-tool installation result on your device. For waking a PC by voice or on a schedule without opening the app, see [Automate Wakes](AUTOMATION.md).
 
-For relay-wake limits, subscriptions, and optional tips, see [Support Development](SUPPORT.md).
+An advertisement failing to load, or your advertising consent choice, does not prevent a manual wake. For premium automation, subscriptions, lifetime unlock, and optional tips, see [Support Development](SUPPORT.md).
