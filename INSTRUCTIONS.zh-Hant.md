@@ -1,6 +1,6 @@
 # Tailwake 操作說明
 
-[← 首頁](README.zh-Hant.md) · [自動化喚醒](AUTOMATION.zh-Hant.md) · [支持開發](SUPPORT.zh-Hant.md) · [隱私權政策](PRIVACY.zh-Hant.md) · [使用條款](TERMS.zh-Hant.md) · [English](INSTRUCTIONS.md)
+[← 首頁](README.zh-Hant.md) · [自動化喚醒](AUTOMATION.zh-Hant.md) · [支持開發](SUPPORT.zh-Hant.md) · [隱私權政策](https://cp529414.github.io/Tailwake/zh-Hant/privacy/) · [使用條款](TERMS.zh-Hant.md) · [English](INSTRUCTIONS.md)
 
 手動本地及遠端喚醒免費且不限次數。所有使用者都能新增電腦、設定 SSH 中繼、使用驗證及查看喚醒紀錄。Premium 提供 Siri 與「捷徑」自動化，並移除廣告。
 

@@ -1,6 +1,6 @@
 # 自動化喚醒
 
-[← 首頁](README.zh-Hant.md) · [操作說明](INSTRUCTIONS.zh-Hant.md) · [支持開發](SUPPORT.zh-Hant.md) · [隱私權政策](PRIVACY.zh-Hant.md) · [使用條款](TERMS.zh-Hant.md) · [English](AUTOMATION.md)
+[← 首頁](README.zh-Hant.md) · [操作說明](INSTRUCTIONS.zh-Hant.md) · [支持開發](SUPPORT.zh-Hant.md) · [隱私權政策](https://cp529414.github.io/Tailwake/zh-Hant/privacy/) · [使用條款](TERMS.zh-Hant.md) · [English](AUTOMATION.md)
 
 Tailwake 為已儲存的電腦提供 Siri 與 Apple「捷徑」的「喚醒電腦」（Wake PC）動作，可透過語音、排程或其他捷徑喚醒，而不必先開啟 App。
 

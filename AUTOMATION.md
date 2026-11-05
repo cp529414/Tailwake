@@ -1,6 +1,6 @@
 # Automate wakes
 
-[← Tailwake home](README.md) · [Instructions](INSTRUCTIONS.md) · [Support Development](SUPPORT.md) · [Privacy Policy](PRIVACY.md) · [Terms of Use](TERMS.md)
+[← Tailwake home](README.md) · [Instructions](INSTRUCTIONS.md) · [Support Development](SUPPORT.md) · [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) · [Terms of Use](TERMS.md)
 
 [繁體中文](AUTOMATION.zh-Hant.md)
 

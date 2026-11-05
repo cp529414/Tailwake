@@ -1,6 +1,6 @@
 # Support Development
 
-[← Tailwake home](README.md) · [Instructions](INSTRUCTIONS.md) · [Automate Wakes](AUTOMATION.md) · [Privacy Policy](PRIVACY.md) · [Terms of Use](TERMS.md)
+[← Tailwake home](README.md) · [Instructions](INSTRUCTIONS.md) · [Automate Wakes](AUTOMATION.md) · [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) · [Terms of Use](TERMS.md)
 
 [繁體中文](SUPPORT.zh-Hant.md)
 

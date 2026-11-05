@@ -2,7 +2,7 @@
 
 生效日期：2026 年 11 月 5 日
 
-[Tailwake 首頁](README.zh-Hant.md) · [English](PRIVACY.md)
+[Tailwake 首頁](README.zh-Hant.md) · [English](https://cp529414.github.io/Tailwake/privacy/)
 
 ## 摘要
 

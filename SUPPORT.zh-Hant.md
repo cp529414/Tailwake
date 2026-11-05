@@ -1,6 +1,6 @@
 # 支持開發
 
-[← 首頁](README.zh-Hant.md) · [操作說明](INSTRUCTIONS.zh-Hant.md) · [自動化喚醒](AUTOMATION.zh-Hant.md) · [隱私權政策](PRIVACY.zh-Hant.md) · [使用條款](TERMS.zh-Hant.md) · [English](SUPPORT.md)
+[← 首頁](README.zh-Hant.md) · [操作說明](INSTRUCTIONS.zh-Hant.md) · [自動化喚醒](AUTOMATION.zh-Hant.md) · [隱私權政策](https://cp529414.github.io/Tailwake/zh-Hant/privacy/) · [使用條款](TERMS.zh-Hant.md) · [English](SUPPORT.md)
 
 Tailwake 免費提供不限次數的手動本地與遠端喚醒。Premium 開放自動化並移除廣告，同時支持持續開發。
 

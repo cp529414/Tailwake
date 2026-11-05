@@ -12,7 +12,7 @@ Tailwake wakes PCs with standard Wake-on-LAN (WoL) magic packets. When your devi
 
 - [Instructions](INSTRUCTIONS.md) — Set up local and remote wakes, install wake tools, and configure pre- and post-wake online verification.
 - [Automate Wakes](AUTOMATION.md) — Use premium Siri commands and Shortcuts to wake a PC by voice or on a schedule.
-- [Privacy Policy](PRIVACY.md) — Read how Tailwake handles your information.
+- [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) — Read how Tailwake handles your information.
 - [Terms of Use](TERMS.md) — Review usage and service terms.
 - [Support Development](SUPPORT.md) — Compare free and premium features, subscriptions, lifetime unlock, and optional tips.
 
@@ -25,7 +25,7 @@ Tailwake can verify whether a PC is already online, log the result of every wake
 - No Tailwake sign-in or developer-run wake server.
 - PC details, relay settings, wake history, and verification results stay on your device.
 - SSH credentials and SecureOn passwords are stored in the iOS Keychain.
-- Free-user advertising uses Google AdMob and consent controls. Tailwake requests non-personalized ads and does not request Apple's tracking permission. Google may still process advertising and diagnostic information; see the [Privacy Policy](PRIVACY.md).
+- Free-user advertising uses Google AdMob and consent controls. Tailwake requests non-personalized ads and does not request Apple's tracking permission. Google may still process advertising and diagnostic information; see the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/).
 - Available in English and Traditional Chinese.
 
 Use Tailwake only with computers, networks, and relay accounts that you own or are authorized to control. Wake-on-LAN depends on your hardware, operating-system settings, and network.

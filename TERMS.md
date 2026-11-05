@@ -28,7 +28,7 @@ Subscriptions renew automatically unless cancelled at least 24 hours before the 
 
 ## Advertising
 
-Free users may see one bottom banner on the main screen, subject to consent and ad availability. No purchase or ad interaction is required for a manual wake. See the [Privacy Policy](PRIVACY.md) for Google AdMob and privacy choices.
+Free users may see one bottom banner on the main screen, subject to consent and ad availability. No purchase or ad interaction is required for a manual wake. See the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) for Google AdMob and privacy choices.
 
 ## Safety
 

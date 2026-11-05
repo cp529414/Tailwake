@@ -2,7 +2,7 @@
 
 Effective date: November 5, 2026
 
-[Tailwake home](README.md) · [繁體中文](PRIVACY.zh-Hant.md)
+[Tailwake home](README.md) · [繁體中文](https://cp529414.github.io/Tailwake/zh-Hant/privacy/)
 
 ## Summary
 
