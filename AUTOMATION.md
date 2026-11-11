@@ -6,7 +6,7 @@
 
 Tailwake donates a **Wake PC** action to Siri and Shortcuts for every saved PC, so you can wake one without opening the app — by voice, on a schedule, or from another shortcut.
 
-**Automation requires premium:** an active monthly or yearly subscription, or a valid lifetime unlock. This applies to local and remote wakes, including existing saved shortcuts and scheduled automations. Free users can always open Tailwake and wake their PCs manually without limits.
+**Automation requires Tailwake Pro and an active plan.** Monthly, yearly, and lifetime access all enable Siri and Shortcuts. The check applies to local and remote wakes, including existing shortcuts and scheduled automations. Basic offers unlimited manual wakes.
 
 Tailwake checks access each time the action runs, before sending a wake. If access has expired or is unavailable, the action returns an error; it does not open a purchase screen during an unattended automation. Purchase or restore from **Support Tailwake** in the app, then run the shortcut again. A verified eligible purchase can be used without first opening the app, subject to the device's normal security and network availability.
 
@@ -56,4 +56,4 @@ This walks through waking a saved PC — named “Desktop” here — automatica
 
 The screenshots show an English-language example; Apple's Shortcuts screens and labels can vary by iOS version and language. If the automation uses **Run After Confirmation**, iOS asks before running it. To run without a confirmation prompt, open the automation settings and choose **Run Immediately**.
 
-Scheduled wakes use Apple's Shortcuts automation; Tailwake does not run its own independent wake scheduler. For premium plans, lifetime unlock, and optional tips, see [Support Development](SUPPORT.md).
+Apple Shortcuts manages scheduled wakes. See [Editions and Plans](SUPPORT.md) for Pro access.

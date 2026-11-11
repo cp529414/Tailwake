@@ -4,17 +4,19 @@ Wake a PC from your iPhone or iPad—on the same local network or through an SSH
 
 [繁體中文](README.zh-Hant.md)
 
-**Unlimited manual wakes are free.** Wake your PCs locally or remotely from the app without a monthly limit. Free users may see one banner at the bottom of the main screen. Premium adds Siri, Apple Shortcuts, scheduled Shortcuts automations, and an ad-free experience. Existing lifetime unlocks keep these premium benefits.
+**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts.
+
+**Tailwake Pro** is a separate, ad-free app. A valid monthly, yearly, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations.
 
 Tailwake wakes PCs with standard Wake-on-LAN (WoL) magic packets. When your device shares a local network with the PC, it broadcasts the packet directly. For a remote wake, Tailwake securely connects to an always-on relay device on the PC’s network. The relay device broadcasts the packet locally.
 
 ## Explore Tailwake
 
 - [Instructions](INSTRUCTIONS.md) — Set up local and remote wakes, install wake tools, and configure pre- and post-wake online verification.
-- [Automate Wakes](AUTOMATION.md) — Use premium Siri commands and Shortcuts to wake a PC by voice or on a schedule.
+- [Automate Wakes](AUTOMATION.md) — Use Siri and Shortcuts with an active Pro plan.
 - [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) — Read how Tailwake handles your information.
 - [Terms of Use](TERMS.md) — Review usage and service terms.
-- [Support Development](SUPPORT.md) — Compare free and premium features, subscriptions, lifetime unlock, and optional tips.
+- [Editions and Plans](SUPPORT.md) — Compare Basic and Pro, plans, and optional tips.
 
 > Your remote-access path is your choice. [Tailscale](https://tailscale.com/) is one way to reach a relay privately without opening an inbound router port.
 

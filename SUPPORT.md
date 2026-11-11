@@ -1,32 +1,24 @@
-# Support Development
+# Editions and Plans
 
-[← Tailwake home](README.md) · [Instructions](INSTRUCTIONS.md) · [Automate Wakes](AUTOMATION.md) · [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) · [Terms of Use](TERMS.md)
+[繁體中文](SUPPORT.zh-Hant.md) · [Guide](README.md)
 
-[繁體中文](SUPPORT.zh-Hant.md)
-
-Tailwake offers unlimited manual local and remote wakes for free. Premium makes automation available and removes advertisements while supporting continued development.
-
-| Feature | Free | Premium |
+| Feature | Tailwake (Basic) | Tailwake Pro |
 | --- | --- | --- |
-| Manual local Wake-on-LAN | Unlimited | Unlimited |
-| Manual remote SSH relay wakes | Unlimited | Unlimited |
-| PC setup, verification, wake history | Included | Included |
-| Main-screen bottom banner | May be shown | No advertisements |
-| Siri and Apple Shortcuts wake actions | Requires premium | Unlimited |
-| Scheduled wake automation through Shortcuts | Requires premium | Included |
+| Manual local and remote wakes | Free and unlimited | Requires an active plan |
+| Siri, Shortcuts, and scheduled automations | Unavailable | Requires an active plan |
+| Advertising | Bottom banner when available | Ad-free at every plan status |
+| In-app purchases | None | Plans and optional tips |
 
-## Premium options
+## Tailwake Pro plans
 
-- **Monthly subscription** — Premium benefits while active; renews monthly.
-- **Yearly subscription** — Premium benefits while active; renews yearly.
-- **Lifetime unlock** — Premium benefits without a subscription. Existing valid lifetime purchases retain premium access.
+- **Monthly** — US$1/month.
+- **Yearly** — US$10/year.
+- **Lifetime** — US$50 one-time purchase.
 
-Prices and availability appear in the app and may vary by App Store storefront. Monthly and yearly subscriptions renew automatically unless cancelled at least 24 hours before the current period ends; they share one subscription group, so changing plans replaces the current plan. Cancelling renewal keeps access through the paid period. Expired or revoked purchases no longer provide premium; free manual wakes remain available.
+These are US base prices. The app shows current pricing in your App Store storefront. Monthly and yearly plans renew automatically unless canceled at least 24 hours before the period ends. A valid lifetime entitlement grants the same wake access without renewal. After expiration or revocation, Pro requires another valid entitlement before sending wakes.
 
-## Optional tips
+Optional tips are **US$10** and **US$100**. Tips support development and leave wake access unchanged.
 
-**Small tip** and **Big tip** are optional support. They do not grant premium, remove advertisements, or unlock automation.
+## Restore or redeem
 
-## Manage or restore a purchase
-
-Use **Restore Purchases** in Tailwake's support screen with the same Apple Account. Tips are consumable and are not restored as premium purchases. Manage or cancel subscriptions in **Settings > [your name] > Subscriptions**. Apple handles billing, cancellation, and refunds. See the [Terms of Use](TERMS.md).
+Open Pro’s support screen and choose **Restore Purchases** using the original Apple Account. If you received an Apple offer code, choose **Redeem Offer Code**. Manage subscriptions in **Settings → [your name] → Subscriptions**. Apple handles billing and refunds. See the [Terms of Use](TERMS.md).

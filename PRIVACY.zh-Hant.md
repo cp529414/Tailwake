@@ -1,12 +1,12 @@
 # 隱私權政策
 
-生效日期：2026 年 11 月 5 日
+生效日期：2026 年 11 月 12 日
 
 [Tailwake 首頁](README.zh-Hant.md) · [English](https://cp529414.github.io/Tailwake/privacy/)
 
 ## 摘要
 
-Tailwake 將電腦及中繼設定、喚醒紀錄與驗證結果保存在您的裝置上。免費使用者可能在主畫面看到一個 Google AdMob 橫幅。Premium 使用者（包含有效終身解鎖持有人）享有無廣告體驗。Tailwake 不要求註冊帳號，也沒有開發者營運的喚醒伺服器。
+兩個版本都將電腦及中繼設定、喚醒紀錄與驗證結果保存在您的裝置上。Tailwake（基本版）可能顯示 AdMob 橫幅。Tailwake Pro 無廣告，也未包含 Google 廣告或同意管理 SDK。兩個版本均無需 Tailwake 帳號，也沒有開發者營運的喚醒伺服器。
 
 ## 裝置上的資訊
 
@@ -18,15 +18,15 @@ Tailwake 將電腦及中繼設定、喚醒紀錄與驗證結果保存在您的�
 
 ## Google 廣告與同意管理
 
-Tailwake 使用 Google Mobile Ads SDK 顯示免費版橫幅，並使用 Google User Messaging Platform（UMP）管理適用的同意與隱私權選擇。Google 可能處理 IP 位址及由此推估的概略位置、裝置或 App 識別碼、當機與效能資訊、廣告資料及廣告互動，以提供、衡量、保護及改善廣告服務。即使 Tailwake 沒有另加分析產品，Google 仍可能將資料用於廣告衡量與分析。請參閱 [Google 隱私權政策](https://policies.google.com/privacy?hl=zh-TW)及 [Google 如何使用來自 App 的資訊](https://policies.google.com/technologies/partner-sites?hl=zh-TW)。
+基本版使用 Google Mobile Ads SDK 顯示橫幅，並使用 Google User Messaging Platform（UMP）管理適用的同意與隱私權選擇。Google 可能處理 IP 位址及由此推估的概略位置、裝置或 App 識別碼、當機與效能資訊、廣告資料及廣告互動，以提供、衡量、保護及改善廣告服務。即使 Tailwake 沒有另加分析產品，Google 仍可能將資料用於廣告衡量與分析。請參閱 [Google 隱私權政策](https://policies.google.com/privacy?hl=zh-TW)及 [Google 如何使用來自 App 的資訊](https://policies.google.com/technologies/partner-sites?hl=zh-TW)。
 
-Tailwake 請求非個人化廣告、停用 Google 發布商第一方識別碼及選用的裝置位置蒐集，也不要求存取廣告識別碼（IDFA）或 Apple「App 追蹤透明度」權限。Tailwake 不會為廣告要求定位權限。這不表示廣告完全不處理資料：非個人化廣告仍可能為安全性、展示次數控管及衡量使用儲存空間或識別碼。即使停用選用的位置蒐集，Google 仍可從 IP 位址推估概略位置。
+基本版請求非個人化廣告、停用 Google 發布商第一方識別碼及選用的裝置位置蒐集，也不要求存取廣告識別碼（IDFA）或 Apple「App 追蹤透明度」權限。Tailwake 不會為廣告要求定位權限。這不表示廣告完全不處理資料：非個人化廣告仍可能為安全性、展示次數控管及衡量使用儲存空間或識別碼。即使停用選用的位置蒐集，Google 仍可從 IP 位址推估概略位置。
 
-在有需要的地區，UMP 會在允許請求廣告前顯示同意或隱私權選項。App 提供「隱私權選擇」時，可使用該入口重新檢視或變更選擇，包括適用的美國州法之退出出售或分享選項。拒絕同意不會移除手動喚醒功能。當同意、網路或其他條件不允許時，廣告可能無法顯示。Premium 使用者不會載入橫幅廣告。
+在有需要的地區，UMP 會在允許請求廣告前顯示同意或隱私權選項。App 提供「隱私權選擇」時，可使用該入口重新檢視或變更選擇，包括適用的美國州法之退出出售或分享選項。拒絕同意不會移除手動喚醒功能。當同意、網路或其他條件不允許時，廣告可能無法顯示。Pro 不會載入橫幅廣告。
 
 ## 購買
 
-Apple 處理購買並提供經驗證的購買及訂閱狀態。Tailwake 據此提供自動化及無廣告權益，不會收到您的信用卡或銀行資料。自願贊助不提供 Premium。
+Apple 處理 Pro 的購買與優惠代碼兌換。Pro 使用 StoreKit 驗證的權益狀態啟用手動喚醒、Siri 和「捷徑」。Tailwake 不會收到信用卡或銀行資料。基本版沒有 App 內購買，Pro 贊助不影響喚醒權益。
 
 ## 權限與控制
 

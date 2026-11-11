@@ -4,7 +4,7 @@
 
 [繁體中文](INSTRUCTIONS.zh-Hant.md)
 
-Manual local and remote wakes are free and unlimited. Adding PCs, configuring SSH relays, verification, and wake history are available to everyone. Premium is required for Siri and Shortcuts automation and removes advertisements.
+**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts. **Tailwake Pro** is a separate, ad-free app. A valid monthly, yearly, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations.
 
 ## Before you start
 
@@ -77,4 +77,4 @@ With **Verify before waking**, Tailwake checks the configured TCP address and po
 
 The **Wake Log** keeps each wake attempt, follow-up verification, and relay-tool installation result on your device. For waking a PC by voice or on a schedule without opening the app, see [Automate Wakes](AUTOMATION.md).
 
-An advertisement failing to load, or your advertising consent choice, does not prevent a manual wake. For premium automation, subscriptions, lifetime unlock, and optional tips, see [Support Development](SUPPORT.md).
+Ad availability and consent choices do not affect manual wakes in Basic. See [Editions and Plans](SUPPORT.md) for Pro access and purchases.

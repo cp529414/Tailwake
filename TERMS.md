@@ -1,6 +1,6 @@
 # Terms of Use
 
-Effective date: November 5, 2026
+Effective date: November 12, 2026
 
 [Tailwake home](README.md) · [繁體中文](TERMS.zh-Hant.md)
 
@@ -22,13 +22,13 @@ Tailwake shows the commands it proposes before installing a wake tool on the rel
 
 ## Purchases
 
-Manual local and remote wakes are free and unlimited. An active monthly or yearly subscription provides Siri, Apple Shortcuts and scheduled Shortcuts wake automation, and an ad-free experience. Valid lifetime unlocks provide these premium benefits without a subscription, including lifetime purchases made before this model changed. Optional tips do not grant premium or remove advertisements. Apple handles billing, cancellation, and refunds.
+**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts. **Tailwake Pro** is a separate, ad-free app. A valid monthly, yearly, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations. Apple handles billing, cancellation, refunds, and offer-code redemption. Optional Pro tips leave wake access unchanged.
 
-Subscriptions renew automatically unless cancelled at least 24 hours before the period ends. Manage subscriptions in Apple's account settings and restore purchases from Tailwake's support screen. Expiration or revocation can remove premium automation access, including from previously saved shortcuts. Manual wakes remain available.
+Subscriptions renew automatically unless canceled at least 24 hours before the period ends. Manage them in Apple Account settings and restore purchases in Pro’s support screen. Expiration or revocation can block all Pro wakes, including saved shortcuts. A valid lifetime entitlement continues to enable access without renewal.
 
 ## Advertising
 
-Free users may see one bottom banner on the main screen, subject to consent and ad availability. No purchase or ad interaction is required for a manual wake. See the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) for Google AdMob and privacy choices.
+Basic may show one bottom banner on the main screen, subject to consent and ad availability. Basic manual wakes require neither purchase nor ad interaction. See the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) for Google AdMob and privacy choices.
 
 ## Safety
 

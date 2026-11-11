@@ -1,12 +1,12 @@
 # Privacy Policy
 
-Effective date: November 5, 2026
+Effective date: November 12, 2026
 
 [Tailwake home](README.md) · [繁體中文](https://cp529414.github.io/Tailwake/zh-Hant/privacy/)
 
 ## Summary
 
-Tailwake stores your PC and relay configuration, wake history, and verification results on your device. Free users may see one Google AdMob banner on the main screen. Premium users, including valid lifetime owners, receive an ad-free experience. Tailwake does not require an account or operate a developer-run wake server.
+Both editions store PC and relay settings, wake history, and verification results on your device. Tailwake (Basic) may show an AdMob banner. Tailwake Pro is ad-free and includes no Google advertising or consent SDK. Neither edition requires a Tailwake account or uses a developer-operated wake server.
 
 ## Information on your device
 
@@ -18,15 +18,15 @@ Local wakes send a Wake-on-LAN packet to your chosen network. Remote wakes conne
 
 ## Google advertising and consent
 
-Tailwake uses the Google Mobile Ads SDK for its free-user banner and Google's User Messaging Platform (UMP) to manage applicable consent and privacy choices. Google may process IP addresses and approximate location inferred from them, device or app identifiers, crash and performance information, advertising data, and ad interactions to deliver, measure, secure, and improve advertising services. Google may use data for advertising measurement and analytics even though Tailwake does not add a separate analytics product. See [Google's privacy policy](https://policies.google.com/privacy) and [how Google uses information from apps](https://policies.google.com/technologies/partner-sites).
+Basic uses the Google Mobile Ads SDK for its banner and Google's User Messaging Platform (UMP) to manage applicable consent and privacy choices. Google may process IP addresses and approximate location inferred from them, device or app identifiers, crash and performance information, advertising data, and ad interactions to deliver, measure, secure, and improve advertising services. Google may use data for advertising measurement and analytics even though Tailwake does not add a separate analytics product. See [Google's privacy policy](https://policies.google.com/privacy) and [how Google uses information from apps](https://policies.google.com/technologies/partner-sites).
 
-Tailwake requests non-personalized advertising, disables Google's publisher first-party ID and optional device-location collection, and does not request access to the advertising identifier (IDFA) or Apple's App Tracking Transparency permission. Tailwake does not request Location permission for advertising. These choices do not mean that ads process no data: non-personalized ads can still use storage or identifiers for security, frequency limits, and measurement. Google can infer approximate location from an IP address even when optional location collection is off.
+Basic requests non-personalized advertising, disables Google's publisher first-party ID and optional device-location collection, and does not request access to the advertising identifier (IDFA) or Apple's App Tracking Transparency permission. Tailwake does not request Location permission for advertising. These choices do not mean that ads process no data: non-personalized ads can still use storage or identifiers for security, frequency limits, and measurement. Google can infer approximate location from an IP address even when optional location collection is off.
 
-Where required, UMP presents consent or privacy choices before ad requests are allowed. Use **Privacy choices** in the app when available to review or change your choices, including applicable US state sale/sharing opt-outs. Declining consent does not remove manual wake functionality. An ad may be unavailable when consent, network conditions, or other requirements prevent it. Premium users do not load banner ads.
+Where required, UMP presents consent or privacy choices before ad requests are allowed. Use **Privacy choices** in the app when available to review or change your choices, including applicable US state sale/sharing opt-outs. Declining consent does not remove manual wake functionality. An ad may be unavailable when consent, network conditions, or other requirements prevent it. Pro does not load banner ads.
 
 ## Purchases
 
-Apple processes purchases and provides verified purchase and subscription status. Tailwake uses that status to grant automation and ad-free access. Tailwake does not receive your payment-card or banking details. Optional tips do not grant premium.
+Apple processes Pro purchases and offer-code redemptions. Pro uses verified StoreKit entitlement status to enable manual wakes, Siri, and Shortcuts. Tailwake does not receive payment-card or banking details. Basic has no in-app purchases. Pro tips leave wake access unchanged.
 
 ## Permissions and controls
 

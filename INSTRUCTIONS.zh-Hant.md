@@ -2,7 +2,7 @@
 
 [← 首頁](README.zh-Hant.md) · [自動化喚醒](AUTOMATION.zh-Hant.md) · [支持開發](SUPPORT.zh-Hant.md) · [隱私權政策](https://cp529414.github.io/Tailwake/zh-Hant/privacy/) · [使用條款](TERMS.zh-Hant.md) · [English](INSTRUCTIONS.md)
 
-手動本地及遠端喚醒免費且不限次數。所有使用者都能新增電腦、設定 SSH 中繼、使用驗證及查看喚醒紀錄。Premium 提供 Siri 與「捷徑」自動化，並移除廣告。
+**Tailwake（基本版）**提供不限次數的手動本地與遠端喚醒，廣告可用時會在底部顯示橫幅。基本版沒有 App 內購買，也不支援 Siri 或「捷徑」。 **Tailwake Pro** 是獨立的無廣告 App。有效的月訂閱、年訂閱或終身解鎖可啟用手動喚醒、Siri 和 Apple「捷徑」，包括排程自動化。
 
 ## 開始前
 
@@ -73,4 +73,4 @@ Tailwake 必須能連至中繼裝置，中繼裝置也必須能連至電腦所�
 
 「喚醒紀錄」將每次嘗試、後續驗證及中繼工具安裝結果保存在裝置上。不開啟 App 的語音或排程喚醒請見[自動化喚醒](AUTOMATION.zh-Hant.md)。
 
-廣告載入失敗或您的廣告同意選擇都不會阻擋手動喚醒。Premium、終身解鎖及自願贊助請見[支持開發](SUPPORT.zh-Hant.md)。
+廣告供應情況及同意選擇不會影響基本版的手動喚醒。Pro 權益與購買方式請見[版本與方案](SUPPORT.zh-Hant.md)。
