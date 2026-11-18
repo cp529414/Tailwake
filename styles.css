@@ -11,6 +11,9 @@ main { padding-block: 1.5rem 2.5rem; }
 h1, h2 { line-height: 1.3; }
 h1 { font-size: 2rem; }
 h2 { margin-top: 2rem; font-size: 1.3rem; }
+table { width: 100%; border-collapse: collapse; margin-block: 1rem; font-size: .95rem; }
+th, td { border: 1px solid #c7d6ca; padding: .6rem .75rem; text-align: left; vertical-align: top; }
+th { background: #e6efe8; }
 footer { border-top: 1px solid #c7d6ca; padding-top: 1rem; font-size: .9rem; }
 .skip { position: absolute; top: -10rem; }
 .skip:focus { position: static; }
@@ -18,5 +21,6 @@ footer { border-top: 1px solid #c7d6ca; padding-top: 1rem; font-size: .9rem; }
   :root { color: #e3ece5; background: #121a15; }
   a { color: #82d99e; }
   a:focus-visible { outline-color: #82d99e; }
-  header, footer { border-color: #425348; }
+  header, footer, th, td { border-color: #425348; }
+  th { background: #1c2820; }
 }
