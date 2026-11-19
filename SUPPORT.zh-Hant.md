@@ -23,3 +23,7 @@
 ## 回復購買或兌換
 
 在 Tailwake Pro 中開啟資訊選單並選擇「方案」，或開啟支持畫面。您可以使用原本的 Apple 帳號選擇「回復購買項目」，若收到 Apple 優惠代碼則選擇「兌換優惠代碼」，也可以選擇「管理訂閱」。付款與退款由 Apple 處理。詳見[使用條款](TERMS.zh-Hant.md)。
+
+## 聯絡方式
+
+如有問題或錯誤回報，請至 [github.com/cp529414/Tailwake/issues](https://github.com/cp529414/Tailwake/issues) 提出 issue。請勿附上 SSH 憑證或其他機密資料。
