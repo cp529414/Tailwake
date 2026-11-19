@@ -2,7 +2,7 @@
 
 Effective date: November 12, 2026
 
-[Tailwake home](README.md) · [繁體中文](TERMS.zh-Hant.md)
+[Tailwake home](README.md)
 
 ## Publisher
 

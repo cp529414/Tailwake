@@ -1,6 +1,6 @@
 # Tailwake 操作說明
 
-[← 首頁](README.zh-Hant.md) · [自動化喚醒](AUTOMATION.zh-Hant.md) · [支持開發](SUPPORT.zh-Hant.md) · [隱私權政策](https://cp529414.github.io/Tailwake/zh-Hant/privacy/) · [使用條款](TERMS.zh-Hant.md) · [English](INSTRUCTIONS.md)
+[← 首頁](README.zh-Hant.md) · [自動化喚醒](AUTOMATION.zh-Hant.md) · [支持開發](SUPPORT.zh-Hant.md) · [隱私權政策（英文）](https://cp529414.github.io/Tailwake/privacy/) · [使用條款（英文）](TERMS.md) · [English](INSTRUCTIONS.md)
 
 **Tailwake（基本版）**提供不限次數的手動本地與遠端喚醒，廣告可用時會在底部顯示橫幅。基本版沒有 App 內購買，也不支援 Siri 或「捷徑」。 **Tailwake Pro** 是獨立的無廣告 App。有效的月訂閱、年訂閱或終身解鎖可啟用手動喚醒、Siri 和 Apple「捷徑」，包括排程自動化。
 
