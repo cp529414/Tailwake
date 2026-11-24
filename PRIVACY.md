@@ -34,7 +34,7 @@ Local Network access allows local wake and verification operations. Notification
 
 ## Children
 
-Tailwake is not directed to children under 13, or under the minimum age in your country or region, and does not knowingly collect personal information from them. Basic does not treat its ad requests as child-directed because the app is not child-directed.
+Tailwake is not directed to children. It has no content made specifically for children or for adults, and it does not knowingly collect personal information from children under 13, or under the minimum age in your country or region. Basic does not treat its ad requests as child-directed because the app is not child-directed.
 
 ## Your rights and choices
 
