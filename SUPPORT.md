@@ -26,4 +26,4 @@ In Tailwake Pro, open the info menu and choose **Plans**, or open the support sc
 
 ## Contact
 
-For questions or bug reports, open an issue at [github.com/cp529414/Tailwake/issues](https://github.com/cp529414/Tailwake/issues). Do not include SSH credentials or other secrets.
+For questions or bug reports, start a discussion at [github.com/cp529414/Tailwake/discussions](https://github.com/cp529414/Tailwake/discussions). Do not include SSH credentials or other secrets.

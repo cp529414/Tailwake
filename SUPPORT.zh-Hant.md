@@ -26,4 +26,4 @@
 
 ## 聯絡方式
 
-如有問題或錯誤回報，請至 [github.com/cp529414/Tailwake/issues](https://github.com/cp529414/Tailwake/issues) 提出 issue。請勿附上 SSH 憑證或其他機密資料。
+如有問題或錯誤回報，請至 [github.com/cp529414/Tailwake/discussions](https://github.com/cp529414/Tailwake/discussions) 發起討論。請勿附上 SSH 憑證或其他機密資料。
