@@ -12,11 +12,11 @@ Tailwake wakes PCs with standard Wake-on-LAN (WoL) magic packets. When your devi
 
 ## Explore Tailwake
 
-- [Instructions](INSTRUCTIONS.md) — Set up local and remote wakes, install wake tools, and configure pre- and post-wake online verification.
-- [Automate Wakes](AUTOMATION.md) — Use Siri and Shortcuts with an active Pro plan.
+- [Instructions](https://cp529414.github.io/Tailwake/instructions/) — Set up local and remote wakes, install wake tools, and configure pre- and post-wake online verification.
+- [Automate Wakes](https://cp529414.github.io/Tailwake/automation/) — Use Siri and Shortcuts with an active Pro plan.
 - [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) — Read how Tailwake handles your information.
-- [Terms of Use](TERMS.md) — Review usage and service terms.
-- [Editions and Plans](SUPPORT.md) — Compare Basic and Pro, plans, and optional tips.
+- [Terms of Use](https://cp529414.github.io/Tailwake/terms/) — Review usage and service terms.
+- [Editions and Plans](https://cp529414.github.io/Tailwake/support/) — Compare Basic and Pro, plans, and optional tips.
 
 > Your remote-access path is your choice. [Tailscale](https://tailscale.com/) is one way to reach a relay privately without opening an inbound router port.
 

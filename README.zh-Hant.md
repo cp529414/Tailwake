@@ -12,11 +12,11 @@ Tailwake 使用標準 Wake-on-LAN（WoL）魔術封包。同一區域網路內�
 
 ## 使用指南
 
-- [操作說明](INSTRUCTIONS.zh-Hant.md)：設定本地與遠端喚醒、安裝喚醒工具，以及喚醒前後的上線驗證。
-- [自動化喚醒](AUTOMATION.zh-Hant.md)：使用有效的 Pro 方案透過 Siri 或「捷徑」喚醒。
+- [操作說明](https://cp529414.github.io/Tailwake/zh-Hant/instructions/)：設定本地與遠端喚醒、安裝喚醒工具，以及喚醒前後的上線驗證。
+- [自動化喚醒](https://cp529414.github.io/Tailwake/zh-Hant/automation/)：使用有效的 Pro 方案透過 Siri 或「捷徑」喚醒。
 - [隱私權政策（英文）](https://cp529414.github.io/Tailwake/privacy/)：了解本機資料、Google AdMob、Unity LevelPlay 與隱私權選擇。
-- [使用條款（英文）](TERMS.md)：使用及購買條款。
-- [版本與方案](SUPPORT.zh-Hant.md)：比較基本版、Pro 方案及自願贊助。
+- [使用條款（英文）](https://cp529414.github.io/Tailwake/terms/)：使用及購買條款。
+- [版本與方案](https://cp529414.github.io/Tailwake/zh-Hant/support/)：比較基本版、Pro 方案及自願贊助。
 
 > 遠端連線方式由您選擇。[Tailscale](https://tailscale.com/) 是不必在路由器開放對外連入連接埠，即可私下連至中繼裝置的一種方式。
 
