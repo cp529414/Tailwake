@@ -4,7 +4,7 @@ Wake a PC from your iPhone or iPad—on the same local network or through an SSH
 
 [繁體中文](README.zh-Hant.md)
 
-**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts.
+**Tailwake (Basic)** offers unlimited manual local and remote wakes with bottom banners when ads are available. It has no in-app purchases, Siri, or Shortcuts.
 
 **Tailwake Pro** is a separate, ad-free app. A valid monthly, annual, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations.
 
@@ -27,7 +27,7 @@ Tailwake can verify whether a PC is already online, log the result of every wake
 - No Tailwake sign-in or developer-run wake server.
 - PC details, relay settings, wake history, and verification results stay on your device.
 - SSH credentials and SecureOn passwords are stored in the iOS Keychain.
-- Free-user advertising uses Google AdMob and consent controls. Tailwake requests non-personalized ads and does not request Apple's tracking permission. Google may still process advertising and diagnostic information; see the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/).
+- Free-user advertising uses Google AdMob, Unity LevelPlay, and consent controls. Tailwake requests non-personalized ads from Google and asks for Apple's tracking permission before Unity LevelPlay starts. Google and Unity may still process advertising and diagnostic information; see the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/).
 - Available in English and Traditional Chinese.
 
 Use Tailwake only with computers, networks, and relay accounts that you own or are authorized to control. Wake-on-LAN depends on your hardware, operating-system settings, and network.
