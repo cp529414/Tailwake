@@ -1,12 +1,12 @@
 # Privacy Policy
 
-Effective date: November 12, 2026
+Effective date: November 24, 2026
 
 [Tailwake home](README.md)
 
 ## Summary
 
-Both editions store PC and relay settings, wake history, and verification results on your device. Tailwake (Basic) may show an AdMob banner. Tailwake Pro is ad-free and includes no Google advertising or consent SDK. Neither edition requires a Tailwake account or uses a developer-operated wake server.
+Both editions store PC and relay settings, wake history, and verification results on your device. Tailwake (Basic) may show up to two banner ads, from Google AdMob and Unity LevelPlay. Tailwake Pro is ad-free and includes no advertising or consent SDK. Neither edition requires a Tailwake account or uses a developer-operated wake server.
 
 ## Information on your device
 
@@ -16,13 +16,13 @@ PC names, addresses, MAC addresses, relay settings, and wake records are stored 
 
 Local wakes send a Wake-on-LAN packet to your chosen network. Remote wakes connect to the SSH relay you configure. Verification contacts your chosen TCP address and port. These operational records are not sent to the developer or included in advertising requests as custom targeting data.
 
-## Google advertising and consent
+## Advertising and consent
 
-Basic uses the Google Mobile Ads SDK for its banner and Google's User Messaging Platform (UMP) to manage applicable consent and privacy choices. Google may process IP addresses and approximate location inferred from them, device or app identifiers, crash and performance information, advertising data, and ad interactions to deliver, measure, secure, and improve advertising services. Google may use data for advertising measurement and analytics even though Tailwake does not add a separate analytics product. See [Google's privacy policy](https://policies.google.com/privacy) and [how Google uses information from apps](https://policies.google.com/technologies/partner-sites).
+Basic uses the Google Mobile Ads SDK and the Unity LevelPlay SDK for its banners, and Google's User Messaging Platform (UMP) to manage applicable consent and privacy choices. Google and Unity may process IP addresses and approximate location inferred from them, device or app identifiers, crash and performance information, advertising data, and ad interactions to deliver, measure, secure, and improve advertising services. Both may use data for advertising measurement and analytics even though Tailwake does not add a separate analytics product. See [Google's privacy policy](https://policies.google.com/privacy), [how Google uses information from apps](https://policies.google.com/technologies/partner-sites), and [Unity's privacy policy](https://unity.com/legal/privacy-policy).
 
-Basic requests non-personalized advertising, disables Google's publisher first-party ID and optional device-location collection, and does not request access to the advertising identifier (IDFA) or Apple's App Tracking Transparency permission. Tailwake does not request Location permission for advertising. These choices do not mean that ads process no data: non-personalized ads can still use storage or identifiers for security, frequency limits, and measurement. Google can infer approximate location from an IP address even when optional location collection is off.
+Basic asks for Apple's App Tracking Transparency permission before it starts Unity LevelPlay. If you allow tracking, Unity may use the advertising identifier (IDFA) and other device identifiers to show more relevant ads and measure them, including across other companies' apps and websites. If you decline, the advertising identifier is not available to Unity. You can change this at any time in iOS Settings > Privacy & Security > Tracking. Basic requests non-personalized advertising from Google, disables Google's publisher first-party ID and optional device-location collection, and Tailwake does not request Location permission for advertising. These choices do not mean that ads process no data: non-personalized ads can still use storage or identifiers for security, frequency limits, and measurement. Google can infer approximate location from an IP address even when optional location collection is off.
 
-Where required, UMP presents consent or privacy choices before ad requests are allowed. Use **Privacy choices** in the app when available to review or change your choices, including applicable US state sale/sharing opt-outs. Declining consent does not remove manual wake functionality. An ad may be unavailable when consent, network conditions, or other requirements prevent it. Pro does not load banner ads.
+Where required, UMP presents consent or privacy choices before ad requests are allowed, and Unity LevelPlay receives that consent signal. Use **Privacy choices** in the app when available to review or change your choices, including applicable US state sale/sharing opt-outs; where Privacy choices are required, Tailwake also tells Unity not to sell or share your personal information. Declining consent does not remove manual wake functionality. An ad may be unavailable when consent, tracking choices, network conditions, or other requirements prevent it. Pro does not load banner ads.
 
 ## Purchases
 
@@ -30,7 +30,7 @@ Apple processes Pro purchases and offer-code redemptions. Pro uses verified Stor
 
 ## Permissions and controls
 
-Local Network access allows local wake and verification operations. Notifications are optional and report wake outcomes. Change these permissions in iOS Settings. Google advertising consent and Apple's system permissions are separate controls. An advertising consent choice does not authorize cross-app tracking.
+Local Network access allows local wake and verification operations. Notifications are optional and report wake outcomes. Change these permissions in iOS Settings. Advertising consent, Apple's tracking permission, and Apple's other system permissions are separate controls. Allowing tracking is optional and does not change how wakes work.
 
 ## Deletion and questions
 

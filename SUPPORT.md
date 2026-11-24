@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | Siri wake commands | Not included | Included |
 | Shortcuts and scheduled automation | Not included | Included |
-| Ads | Bottom banner when available | No ads |
+| Ads | Bottom banners when available | No ads |
 
 Basic's manual wakes are free and unlimited. Tailwake Pro needs an active monthly, annual, or lifetime plan to send wakes.
 
