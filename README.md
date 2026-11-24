@@ -6,7 +6,7 @@ Wake a PC from your iPhone or iPad—on the same local network or through an SSH
 
 **Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts.
 
-**Tailwake Pro** is a separate, ad-free app. A valid monthly, yearly, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations.
+**Tailwake Pro** is a separate, ad-free app. A valid monthly, annual, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations.
 
 Tailwake wakes PCs with standard Wake-on-LAN (WoL) magic packets. When your device shares a local network with the PC, it broadcasts the packet directly. For a remote wake, Tailwake securely connects to an always-on relay device on the PC’s network. The relay device broadcasts the packet locally.
 

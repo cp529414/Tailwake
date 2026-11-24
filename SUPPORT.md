@@ -8,15 +8,15 @@
 | Shortcuts and scheduled automation | Not included | Included |
 | Ads | Bottom banner when available | No ads |
 
-Basic's manual wakes are free and unlimited. Tailwake Pro needs an active monthly, yearly, or lifetime plan to send wakes.
+Basic's manual wakes are free and unlimited. Tailwake Pro needs an active monthly, annual, or lifetime plan to send wakes.
 
 ## Tailwake Pro plans
 
 - **Monthly** — US$1/month.
-- **Yearly** — US$10/year.
+- **Annual** — US$10/year.
 - **Lifetime** — US$30 one-time purchase.
 
-These are US base prices. The app shows current pricing in your App Store storefront. Monthly and yearly plans renew automatically unless canceled at least 24 hours before the period ends. A valid lifetime entitlement grants the same wake access without renewal. After expiration or revocation, Pro requires another valid entitlement before sending wakes.
+These are US base prices. The app shows current pricing in your App Store storefront. Monthly and annual plans renew automatically unless canceled at least 24 hours before the period ends. A valid lifetime entitlement grants the same wake access without renewal. After expiration or revocation, Pro requires another valid entitlement before sending wakes.
 
 Optional tips are **US$10** and **US$30**. Tips support development and leave wake access unchanged.
 
