@@ -19,6 +19,17 @@ Enable Wake-on-LAN in the target PC’s firmware and operating-system settings b
 
 Tailwake asks for **Local Network** access to send local wakes. Notifications are optional, but they let Tailwake report that a wake was sent, failed, or was later verified.
 
+## Waking a Mac
+
+A Mac can be a target because Tailwake sends a standard WoL magic packet, but macOS needs one setting and has some limits:
+
+- On the Mac, open **System Settings**, then **Battery** (laptops) or **Energy** (desktops), then **Options**. Set **Wake for network access** to **Always** or **Only on Power Adapter**. Menu names vary by Mac model and macOS version.
+- Enter the MAC address of the network connection the Mac uses. Wi-Fi and Ethernet have different addresses. You can find it in **System Settings**, **Network**, your connection, **Details**, **Hardware**. If the Wi-Fi network uses a private address, turn that off for your home network or wake the Mac over Ethernet, because a changing address stops the wake from matching.
+- A Mac wakes from sleep, not from a full shutdown.
+- Wake over Wi-Fi depends on the model, and Ethernet is more reliable. A laptop usually needs its power adapter connected.
+
+Test the wake while the Mac is asleep, before relying on it remotely.
+
 ## Wake from the same network
 
 When your iPhone or iPad and the target PC share a local network, choose **Local (UDP)** when adding the PC. Tailwake broadcasts the WoL magic packet directly—no relay is required.
