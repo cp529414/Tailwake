@@ -32,9 +32,17 @@ Apple processes Pro purchases and offer-code redemptions. Pro uses verified Stor
 
 Local Network access allows local wake and verification operations. Notifications are optional and report wake outcomes. Change these permissions in iOS Settings. Advertising consent, Apple's tracking permission, and Apple's other system permissions are separate controls. Allowing tracking is optional and does not change how wakes work.
 
+## Children
+
+Tailwake is not directed to children under 13, or under the minimum age in your country or region, and does not knowingly collect personal information from them. Basic does not treat its ad requests as child-directed because the app is not child-directed.
+
+## Your rights and choices
+
+Depending on where you live, you may have rights to access, correct, delete, or restrict the use of your personal information, to object to its processing, to withdraw consent at any time, and to opt out of its sale or sharing. Tailwake has no account and no developer-operated server that holds your data, so the information described above stays on your device. For information held by Google or Unity, use **Privacy choices** in the app when available, the Tracking setting in iOS Settings, or the providers' own privacy controls (see [Google's privacy policy](https://policies.google.com/privacy) and [Unity's privacy policy](https://unity.com/legal/privacy-policy)). For anything else, use the developer contact details on Tailwake's App Store listing.
+
 ## Deletion and questions
 
-Deleting the app removes its local files; limited Keychain records may remain as described above. Google's processing is governed by its privacy information and applicable consent choices. For privacy questions or requests, use the developer contact details on Tailwake's App Store listing. Do not send SSH credentials or other secrets with a support request.
+Deleting the app removes its local files; limited Keychain records may remain as described above. Google's and Unity's processing is governed by their own privacy information and applicable consent choices. For privacy questions or requests, use the developer contact details on Tailwake's App Store listing. Do not send SSH credentials or other secrets with a support request.
 
 ## Changes
 
