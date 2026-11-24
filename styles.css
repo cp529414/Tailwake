@@ -155,3 +155,5 @@ th { background: var(--alt); font-weight: 500; }
 @media (prefers-reduced-motion: reduce) {
   * { transition-duration: 1ms !important; }
 }
+
+.prose img { display: block; max-width: 100%; height: auto; margin: 12px 0 4px; border-radius: 12px; }

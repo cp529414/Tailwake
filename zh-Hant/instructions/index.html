@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="設定 Tailwake 本地與遠端喚醒、安裝喚醒工具並設定連線驗證。">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="color-scheme" content="light dark">
+  <title>Tailwake 操作說明 · Tailwake</title>
+  <link rel="canonical" href="https://cp529414.github.io/Tailwake/zh-Hant/instructions/">
+  <link rel="alternate" hreflang="en" href="https://cp529414.github.io/Tailwake/instructions/">
+  <link rel="alternate" hreflang="zh-Hant" href="https://cp529414.github.io/Tailwake/zh-Hant/instructions/">
+  <link rel="alternate" hreflang="x-default" href="https://cp529414.github.io/Tailwake/instructions/">
+  <link rel="stylesheet" href="/Tailwake/styles.css">
+  <script src="/Tailwake/lang.js" defer></script>
+</head>
+<body class="prose">
+  <a class="skip" href="#content">跳至主要內容</a>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="/Tailwake/zh-Hant/">Tailwake</a>
+      <nav aria-label="主要導覽">
+        <a href="/Tailwake/zh-Hant/support/" lang="zh-Hant">支援</a>
+        <a href="/Tailwake/privacy/" lang="en">Privacy Policy</a>
+        <a href="/Tailwake/terms/" lang="en">Terms of Use</a>
+      </nav>
+      <details class="lang">
+        <summary><span class="flag" aria-hidden="true">🇹🇼</span><span class="sr">語言: </span><span lang="zh-Hant">繁體中文</span></summary>
+        <ul><li><a href="/Tailwake/instructions/" lang="en" hreflang="en" data-lang="en"><span class="flag" aria-hidden="true">🇺🇸</span><span>English</span></a></li><li><a href="/Tailwake/zh-Hant/instructions/" lang="zh-Hant" hreflang="zh-Hant" data-lang="zh-Hant" aria-current="true"><span class="flag" aria-hidden="true">🇹🇼</span><span>繁體中文</span></a></li></ul>
+      </details>
+    </div>
+  </header>
+  <main id="content" class="prose"><h1>Tailwake 操作說明</h1>
+<p><strong>Tailwake（基本版）</strong>提供不限次數的手動本地與遠端喚醒，廣告可用時會在底部顯示橫幅。基本版沒有 App 內購買，也不支援 Siri 或「捷徑」。 <strong>Tailwake Pro</strong> 是獨立的無廣告 App。有效的月訂閱、年訂閱或終身解鎖可啟用手動喚醒、Siri 和 Apple「捷徑」，包括排程自動化。</p>
+<h2>開始前</h2>
+<p>您需要：</p>
+<ul>
+<li>執行 iOS 17 或更新版本的 iPhone 或 iPad</li>
+<li>支援 Wake-on-LAN 的電腦及網路卡</li>
+<li>電腦的 MAC 位址</li>
+<li>遠端喚醒另需一台位於電腦區域網路內、支援 SSH 的中繼裝置</li>
+</ul>
+<p>請先在電腦韌體及作業系統設定中啟用 Wake-on-LAN。</p>
+<p>Tailwake 會要求「區域網路」權限以傳送本地喚醒。通知為選用，可用來回報已傳送、失敗及後續驗證結果。</p>
+<h2>喚醒 Mac</h2>
+<p>Tailwake 傳送標準 WoL 魔術封包，因此 Mac 也可以作為目標，但 macOS 需要一項設定，也有一些限制：</p>
+<ul>
+<li>在 Mac 上開啟「系統設定」，前往「電池」（筆記型電腦）或「能源」（桌上型電腦），再選擇「選項」，將「網路存取喚醒」設為「永遠」或「僅限電源轉換器」。選單名稱會因 Mac 機型與 macOS 版本而異。</li>
+<li>輸入 Mac 實際使用之網路連線的 MAC 位址。Wi-Fi 與 Ethernet 的位址不同。您可以在「系統設定」、「網路」、您的連線、「詳細資訊」、「硬體」中找到。若 Wi-Fi 網路使用私人位址，請在您的家用網路關閉此功能，或改用 Ethernet 喚醒 Mac，因為位址變動會導致喚醒封包無法比對。</li>
+<li>Mac 可以從睡眠喚醒，但無法從完全關機喚醒。</li>
+<li>透過 Wi-Fi 喚醒取決於機型，Ethernet 較為穩定。筆記型電腦通常需要接上電源轉換器。</li>
+</ul>
+<p>請在 Mac 睡眠時先測試喚醒，再依賴它進行遠端喚醒。</p>
+<h2>在同一網路喚醒</h2>
+<p>當 iPhone 或 iPad 與電腦位於同一區域網路，新增電腦時選擇 <strong>Local (UDP)</strong>。Tailwake 直接廣播 WoL 魔術封包，不需中繼裝置。</p>
+<p><img loading="lazy" src="/Tailwake/images/direct-udp-broadcast.png" alt="iPhone 或 iPad 透過區域網路，向目標電腦傳送 Wake-on-LAN 魔術封包。" width="900"></p>
+<h2>遠端喚醒</h2>
+<p>電腦所在區域網路內的路由器或小型 Linux 電腦可作為 SSH 中繼。選擇 <strong>Relay (SSH)</strong>，輸入中繼裝置的位址、連接埠、使用者、驗證方式及喚醒工具。中繼裝置收到 Tailwake 的 SSH 連線後，在電腦所在網路廣播喚醒封包。</p>
+<h3>使用路由器</h3>
+<p>路由器必須支援 SSH 並能執行選定的喚醒工具。OpenWrt 適合此用途；Asuswrt-Merlin、FreshTomato、DD-WRT 與 Gargoyle 在啟用 SSH 且具備所需工具時也可能適用。</p>
+<p><img loading="lazy" src="/Tailwake/images/router-relay-etherwake.png" alt="Tailwake 透過 SSH 連線至路由器，再由 etherwake 傳送乙太網路喚醒訊框。" width="900"></p>
+<p><img loading="lazy" src="/Tailwake/images/router-relay-wakeonlan.png" alt="Tailwake 透過 SSH 連線至路由器，再由 wakeonlan 廣播 WoL 封包。" width="900"></p>
+<h3>使用小型 Linux 電腦</h3>
+<p>Raspberry Pi 是其中一種選擇。任何持續運作、具備 SSH 與喚醒工具，並能存取電腦所在廣播網段或 VLAN 的 Linux 單板電腦都可能適用。</p>
+<p><img loading="lazy" src="/Tailwake/images/small-computer-relay-etherwake.png" alt="Tailwake 透過 SSH 連線至小型 Linux 電腦，再由 etherwake 傳送喚醒訊框。" width="900"></p>
+<p><img loading="lazy" src="/Tailwake/images/small-computer-relay-wakeonlan.png" alt="Tailwake 透過 SSH 連線至小型 Linux 電腦，再由 wakeonlan 廣播 WoL 封包。" width="900"></p>
+<h3>選擇中繼工具</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr><th>工具</th><th>傳送方式</th><th>中繼裝置需求</th></tr>
+</thead>
+<tbody>
+<tr><td><code>etherwake</code></td><td>原始乙太網路訊框</td><td>Root 權限及本地網路介面；支援 SecureOn</td></tr>
+<tr><td><code>wakeonlan</code></td><td>UDP WoL 魔術封包</td><td>不需 Root 權限或選擇網路介面；不支援 SecureOn</td></tr>
+</tbody>
+</table></div>
+<p>Tailwake 必須能連至中繼裝置，中繼裝置也必須能連至電腦所在的廣播網段或 VLAN。安裝缺少的工具前，App 會先顯示將執行的指令，並在您確認後才使用中繼裝置的套件管理工具安裝。安裝需要網際網路，可能也需要 Root 或免密碼 <code>sudo</code> 權限。</p>
+<h3>SSH 驗證與安全性</h3>
+<p>可使用 SSH 密碼，或未加密的 OpenSSH Ed25519 私鑰。中繼裝置需提供 Ed25519 或 ECDSA SSH 主機金鑰；僅支援 RSA 或其他過舊協定的 SSH 伺服器需先更新。</p>
+<p>首次成功連線後，Tailwake 會記住中繼裝置的 SSH 主機金鑰。若金鑰變更，App 會在提供密碼或私鑰前中止連線，並要求您比較新金鑰。</p>
+<h2>在 Tailwake 新增電腦</h2>
+<ol>
+<li>開啟 Tailwake 並新增電腦。</li>
+<li>輸入名稱與 MAC 位址。</li>
+<li>同一網路選擇 <strong>Local (UDP)</strong>，遠端喚醒選擇 <strong>Relay (SSH)</strong>。</li>
+<li>使用中繼時，輸入 SSH 設定、選擇密碼或 Ed25519 私鑰，再選 <code>etherwake</code> 或 <code>wakeonlan</code>。</li>
+<li>可啟用驗證並輸入電腦上的 TCP 服務，例如遠端桌面的 3389 連接埠。</li>
+<li>正式依賴遠端功能前，先在電腦仍開機時測試設定與驗證，再測試待機喚醒。</li>
+</ol>
+<h2>驗證與紀錄</h2>
+<p>「喚醒前驗證」會檢查指定 TCP 位址及連接埠；電腦已回應時便略過喚醒。「喚醒後驗證」在選定的 1–60 分鐘延遲後檢查一次，預設為五分鐘。</p>
+<p>「喚醒紀錄」將每次嘗試、後續驗證及中繼工具安裝結果保存在裝置上。不開啟 App 的語音或排程喚醒請見<a href="/Tailwake/zh-Hant/automation/">自動化喚醒</a>。</p>
+<p>廣告供應情況及同意選擇不會影響基本版的手動喚醒。Pro 權益與購買方式請見<a href="/Tailwake/zh-Hant/support/">版本與方案</a>。</p></main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>Tailwake · iPhone 與 iPad</span>
+      <span>隱私權政策與使用條款僅提供英文版。</span>
+    </div>
+  </footer>
+</body>
+</html>
