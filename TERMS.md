@@ -28,7 +28,7 @@ Subscriptions renew automatically unless canceled at least 24 hours before the p
 
 ## Advertising
 
-Basic may show up to two bottom banners on the main screen, subject to consent, tracking choices, and ad availability. Basic manual wakes require neither purchase nor ad interaction. See the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) for Google AdMob, Unity LevelPlay, and privacy choices.
+Basic may show up to two bottom banners on the main screen, subject to consent, tracking choices, and ad availability. Ads are provided by Google AdMob and Unity LevelPlay, which are independent of Tailwake. Their own terms and policies apply to ads, and Tailwake does not control or endorse the content of an ad or the advertiser. Tapping an ad may open a website or app outside Tailwake, where that site's or app's own terms and privacy policy apply. Basic manual wakes require neither purchase nor ad interaction. See the [Privacy Policy](https://cp529414.github.io/Tailwake/privacy/) for Google AdMob, Unity LevelPlay, and privacy choices.
 
 ## Safety
 
