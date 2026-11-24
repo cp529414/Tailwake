@@ -6,7 +6,7 @@
 
 Tailwake donates a **Wake PC** action to Siri and Shortcuts for every saved PC, so you can wake one without opening the app — by voice, on a schedule, or from another shortcut.
 
-**Automation requires Tailwake Pro and an active plan.** Monthly, yearly, and lifetime access all enable Siri and Shortcuts. The check applies to local and remote wakes, including existing shortcuts and scheduled automations. Basic offers unlimited manual wakes.
+**Automation requires Tailwake Pro and an active plan.** Monthly, annual, and lifetime access all enable Siri and Shortcuts. The check applies to local and remote wakes, including existing shortcuts and scheduled automations. Basic offers unlimited manual wakes.
 
 Tailwake checks access each time the action runs, before sending a wake. If access has expired or is unavailable, the action returns an error; it does not open a purchase screen during an unattended automation. Purchase or restore from **Support Tailwake** in the app, then run the shortcut again. A verified eligible purchase can be used without first opening the app, subject to the device's normal security and network availability.
 

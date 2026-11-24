@@ -22,7 +22,7 @@ Tailwake shows the commands it proposes before installing a wake tool on the rel
 
 ## Purchases
 
-**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts. **Tailwake Pro** is a separate, ad-free app. A valid monthly, yearly, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations. Apple handles billing, cancellation, refunds, and offer-code redemption. Optional Pro tips leave wake access unchanged.
+**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts. **Tailwake Pro** is a separate, ad-free app. A valid monthly, annual, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations. Apple handles billing, cancellation, refunds, and offer-code redemption. Optional Pro tips leave wake access unchanged.
 
 Subscriptions renew automatically unless canceled at least 24 hours before the period ends. Manage them in Apple Account settings and restore purchases in Pro’s support screen. Expiration or revocation can block all Pro wakes, including saved shortcuts. A valid lifetime entitlement continues to enable access without renewal.
 

@@ -4,7 +4,7 @@
 
 [繁體中文](INSTRUCTIONS.zh-Hant.md)
 
-**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts. **Tailwake Pro** is a separate, ad-free app. A valid monthly, yearly, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations.
+**Tailwake (Basic)** offers unlimited manual local and remote wakes with a bottom banner when ads are available. It has no in-app purchases, Siri, or Shortcuts. **Tailwake Pro** is a separate, ad-free app. A valid monthly, annual, or lifetime plan unlocks manual wakes, Siri, and Apple Shortcuts, including scheduled automations.
 
 ## Before you start
 
